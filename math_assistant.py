@@ -1,3 +1,4 @@
+# AI Assistant to solve complex mathematical problems
 import chainlit as cl
 from langchain_openai import OpenAI
 from langchain.chains import LLMMathChain,LLMChain
